@@ -6,3 +6,7 @@ age = 43
 birth_month = 12
 birth_year = 1979
 
+body_temperature = 98.6
+marathon_distance = 26.2
+pi_value = 3.14159
+
