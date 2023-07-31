@@ -10,3 +10,6 @@ body_temperature = 98.6
 marathon_distance = 26.2
 pi_value = 3.14159
 
+name_billy = true
+live_in_denver = true
+drive_jeep = true
